@@ -16,6 +16,6 @@
     "noUncheckedIndexedAccess": true,
     "noImplicitOverride": true,
 
-    "module": "Preserve",
+    "module": "Preserve"
   }
 }
